@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/teleport.wav</SourceFile>
+  <SourceTime>2021-01-29T20:16:39.6273683+00:00</SourceTime>
+  <DestFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/bin/DesktopGL/Audio/teleport.xnb</DestFile>
+  <DestTime>2021-05-09T04:12:28.0196892+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

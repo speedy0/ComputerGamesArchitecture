@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/CoinCollect.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/collect.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/healthpotion.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/Lose.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/Spellcasting.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/teleport.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/Win.wav</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Font/Font.spritefont</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Font/gameFont.spritefont</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Background/BG1.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Background/ControlsBG.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Background/HighscoresBG.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Background/LostBG.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Background/MainMenuBG.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Button/Button.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Enemy/Enemy1.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Enemy/mageL.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/HUD/boundingBox.jpg</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/HUD/LostLayer.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/HUD/WinLayer.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Player/Celebrate.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Player/Die.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Player/Idle.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Player/Jump.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Player/Run.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level1/Exit.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level1/Ground.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level1/Platform.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level2/Exit.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level2/Ground.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level2/Platform.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level3/Exit.gif</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level3/Ground.gif</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Level3/Platform.gif</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Others/Chest.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Others/Coin.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Others/Gem.png</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Others/Health.gif</File>
+    <File>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Graphics/Tiles/Others/Lava.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

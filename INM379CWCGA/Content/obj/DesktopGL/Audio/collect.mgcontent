@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/collect.wav</SourceFile>
+  <SourceTime>2021-01-29T20:14:43.5998712+00:00</SourceTime>
+  <DestFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/bin/DesktopGL/Audio/collect.xnb</DestFile>
+  <DestTime>2021-05-09T04:12:27.4517024+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

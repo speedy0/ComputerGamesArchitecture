@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScoresFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScoresFile>
+    <Value>7505</Value>
+    <playerN>Anski</playerN>
+  </ScoresFile>
+  <ScoresFile>
+    <Value>4670</Value>
+    <playerN>Anski</playerN>
+  </ScoresFile>
+  <ScoresFile>
+    <Value>4037</Value>
+    <playerN>Anski</playerN>
+  </ScoresFile>
+</ArrayOfScoresFile>

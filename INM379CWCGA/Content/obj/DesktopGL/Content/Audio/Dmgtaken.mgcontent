@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Suzu9/Desktop/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Audio/Dmgtaken.mp3</SourceFile>
+  <SourceTime>2021-01-29T20:23:51.5972422+00:00</SourceTime>
+  <DestFile>C:/Users/Suzu9/Desktop/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/bin/DesktopGL/Content/Audio/Dmgtaken.xnb</DestFile>
+  <DestTime>2021-03-31T16:55:54.5503879+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Suzu9/Desktop/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/bin/DesktopGL/Content/Audio/Dmgtaken.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

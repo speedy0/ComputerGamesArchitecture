@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5chUiHFx+P7r3szE1bh9x9yYSyYMU0gRepZUYnsJbEJ0eKqCmAb4OZubvcM8HYDvoSSO409V5KrTvKP90rr/A==",
+  "success": true,
+  "projectFilePath": "B:\\Others\\Uni\\CGA\\Coursework\\INM379CWCGA\\INM379CWCGA\\INM379CWCGA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suzu9\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Suzu9\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

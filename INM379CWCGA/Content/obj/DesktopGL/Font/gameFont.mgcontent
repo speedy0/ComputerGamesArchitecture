@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/Font/gameFont.spritefont</SourceFile>
+  <SourceTime>2021-02-03T21:16:56+00:00</SourceTime>
+  <DestFile>B:/Others/Uni/CGA/Coursework/INM379CWCGA/INM379CWCGA/Content/bin/DesktopGL/Font/gameFont.xnb</DestFile>
+  <DestTime>2021-05-09T04:12:28.289381+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
